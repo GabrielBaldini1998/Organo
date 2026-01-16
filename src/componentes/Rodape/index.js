@@ -5,17 +5,17 @@ const Rodape = () => {
         <section>
             <ul>
                 <li>
-                    <a href="facebook.com" target="_blank">
+                    <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
                         <img src="/imagens/fb.png" alt="Facebook" />
                     </a>
                 </li>
                 <li>
-                    <a href="twitter.com" target="_blank">
+                    <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                         <img src="/imagens/tw.png" alt="Twitter" />
                     </a>
                 </li>
                 <li>
-                    <a href="instagram.com" target="_blank">
+                    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
                         <img src="/imagens/ig.png" alt="Instagram" />
                     </a>
                 </li>
@@ -26,7 +26,7 @@ const Rodape = () => {
         </section>
         <section>
             <p>
-                Desenvolvido por <a href="https://github.com/GabrielBaldini1998" target="_blank">Gabriel Baldini.</a>
+                Desenvolvido por <a href="https://github.com/GabrielBaldini1998" target="_blank" rel="noopener noreferrer">Gabriel Baldini.</a>
             </p>
         </section>
     </footer>)

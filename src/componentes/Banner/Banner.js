@@ -1,5 +1,5 @@
 import './Banner.css';
-import Fragment from 'react';
+import { Fragment } from 'react';
 
 export const Banner = () => {
     // JSX
