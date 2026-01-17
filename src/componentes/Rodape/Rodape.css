@@ -5,6 +5,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    box-sizing: border-box;
 }
 
 .footer ul li {
@@ -20,4 +24,8 @@
     text-decoration: none;
     color: #FFF;
     font-weight: 700;
+}
+
+.footer p {
+    margin: 15px;
 }
